@@ -119,7 +119,7 @@ Final-year Computer Science undergraduate with hands-on data analytics experienc
 - Built a **centralized Flask monitoring dashboard** with SQLite for real-time surveillance visualization
 - Integrated **Twilio REST API** to enable automated SMS alerts for detected security threats
 
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat&logo=github)](https://github.com/Astik97/crime-alert)
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat&logo=github)](https://github.com/Astik97/FALCON)
 `Python` · `YOLOv8` · `OpenCV` · `Flask` · `SQLite` · `Twilio API` · `HTML` · `CSS`
 
 ---
