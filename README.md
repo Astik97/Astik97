@@ -22,7 +22,7 @@ Computer Science undergraduate focused on **Python full stack development** and 
 
 | Degree | Institution | Year | Score |
 |---|---|---|---|
-| B.Tech — Computer Science & Engineering | Govt. College of Engineering, Keonjhar | 2022 – 2026 | CGPA: 8.01 |
+| B.Tech — Computer Science & Engineering | Govt. College of Engineering, Keonjhar | 2022 – 2026 | CGPA: 8.1 |
 
 ---
 
