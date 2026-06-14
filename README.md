@@ -1,136 +1,36 @@
-<div align="center">
+# 💫 About Me:
 
-# Astik Mohapatra
+🔭 I’m currently working on an automated Tender Comparison and Analysis System, building the full architecture from document extraction to the Flask backend.<br><br>👯 I’m looking to collaborate on open-source AI tooling, computer vision prototypes, or early-stage startup MVPs.<br><br>🤝 I’m looking for help with optimizing and scaling real-time object detection models for high-traffic production environments.<br><br>🌱 I’m currently learning advanced document AI techniques and modern LLM integration strategies.<br><br>💬 Ask me about building end-to-end Python web applications, integrating custom YOLO models, or designing system architectures from scratch.<br><br>⚡ Fun fact: I don't just write the backend code; I hook my vision models directly to Raspberry Pis and live cameras to see them work in the real world.
 
-### Python Full Stack Developer
+## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/astik-mohapatra)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:astikm7007@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Astik97)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/astik-mohapatra) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:astikm7007@gmail.com) 
 
-![Profile Views](https://komarev.com/ghpvc/?username=Astik97&color=1F4E79&style=flat&label=Profile+Views)
+# 💻 Tech Stack:
 
-</div>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
 
----
+# 📊 GitHub Stats:
 
-## About Me
+![](https://github-readme-stats.shion.dev/api?username=Astik97&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
-Computer Science undergraduate focused on **Python full stack development** and backend engineering. Skilled in building AI-powered web applications using Python, FastAPI, Flask, SQL, HTML, CSS, and JavaScript. Experienced in developing real-time systems, REST APIs, and database-driven applications through internships and hands-on projects.
+![](https://streak-stats.demolab.com/?user=Astik97&theme=dark&hide_border=false)<br/>
 
-## Education
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Astik97&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-| Degree | Institution | Year | Score |
-|---|---|---|---|
-| B.Tech — Computer Science & Engineering | Govt. College of Engineering, Keonjhar | 2022 – 2026 | CGPA: 8.1 |
+### 🔝 Top Contributed Repo
 
----
+![](https://github-contributor-stats.vercel.app/api?username=Astik97&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-## Internship Experience
-
-### 📊 AI Intern — AICTE + Shell India *(Edunet Foundation)*
-`Aug 2025 – Sep 2025` | `Remote`
-
-- Built a **Streamlit-based flood analysis dashboard** using Python and data visualization libraries, reducing manual reporting effort by **30%**.
-- Developed backend data processing workflows for real-time flood dataset analysis and automated visualization generation.
-
-`Python` · `Streamlit` · `Data Visualization` · `Backend Processing`
-
----
-
-### 🔬 Summer Intern — ITR-DRDO
-`Jun 2025 – Jul 2025` | `Chandipur, Odisha`
-
-- Collaborated with senior engineers to gather technical requirements and analyze software design patterns for an enterprise AI application.
-- Shadowed the development team to understand system architecture, gaining hands-on exposure to the complete software planning lifecycle.
-
-`Software Architecture` · `Requirements Gathering` · `System Design`
-
----
-
-### 📈 Data Analytics Intern — IBM SkillsBuild *(CSRBOX)*
-`Jun 2024 – Aug 2024` | `Remote`
-
-- Performed **exploratory data analysis (EDA)** using Python, Pandas, and NumPy on structured datasets to identify analytical patterns and trends.
-- Built visualization reports using Matplotlib and Seaborn, improving reporting clarity and data interpretation workflows.
-
-`Python` · `Pandas` · `NumPy` · `Matplotlib` · `Seaborn`
-
----
-
-## 🛠️ Tech Stack
-
-### Languages & Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Databases & Tools
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### Libraries
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-
----
-
-## 🚀 Projects
-
-### 🔒 Automatic Crime Alert & Reporting System
-> Real-time AI surveillance system with automated SMS alerts and a live monitoring dashboard.
-
-- Developed a real-time AI surveillance system using **Flask, OpenCV, and YOLOv8** for automated threat detection and instant SMS alert generation from CCTV streams.
-- Designed backend alert management workflows and integrated **Twilio API notifications**, improving real-time monitoring and response efficiency.
-
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat&logo=github)](https://github.com/Astik97/FALCON)  
-`Python` · `YOLOv8` · `OpenCV` · `Flask` · `SQLite` · `Twilio API` · `HTML` · `CSS` · `JavaScript`
-
----
-
-## 🏅 Certifications
-
-| Certificate | Issuer |
-|---|---|
-| Programming Essentials in Python | Cisco Networking Academy |
-| Machine Learning | Simplilearn |
-| Data Analytics Internship | IBM SkillsBuild |
-
----
-
-## 📊 GitHub Stats
+### 🏆 Featured Projects
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Astik97&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Astik97&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="45%" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Astik97&theme=tokyonight&hide_border=true" width="60%" />
-
+  <a href="https://github.com/Astik97/FALCON">
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=Astik97&repo=FALCON&theme=dark&hide_border=false" alt="Automatic Crime Alert System" />
+  </a>
+  <a href="https://github.com/Astik97/TenderIQ">
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=Astik97&repo=TenderIQ&theme=dark&hide_border=false" alt="Tender Comparison System" />
+  </a>
 </div>
 
----
-
-## 📫 Let's Connect
-
-<div align="center">
-
-I am actively looking for **Python Full Stack** and **Backend Developer** junior roles.  
-Feel free to reach out — I respond within 24 hours.
-
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/astik-mohapatra)
-[![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:astikm7007@gmail.com)
-
-</div>
-
-```
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
